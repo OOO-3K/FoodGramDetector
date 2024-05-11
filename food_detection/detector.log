@@ -297,3 +297,5 @@ django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '
 2024-05-12 01:23:44,533 WARNING Bad Request: /detector/
 2024-05-12 01:23:53,618 INFO received files: dict_keys([])
 2024-05-12 01:23:53,620 WARNING Bad Request: /detector/
+2024-05-12 01:26:32,304 INFO received files: dict_keys([])
+2024-05-12 01:26:32,304 WARNING Bad Request: /detector/

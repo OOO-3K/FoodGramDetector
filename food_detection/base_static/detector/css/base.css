@@ -3,9 +3,16 @@ body {
     font-size: 11pt; /* Размер основного шрифта в пунктах  */
     background-color: #f0f0f0; /* Цвет фона веб-страницы */
     color: #333; /* Цвет основного текста */ 
+    height: 95%;
+    width: 95%;
+}
+div {
+    height: 100%;
+    line-height: 95vh;
     text-align: center;
-    /* vertical-align: middle; */
-    padding-top: 40%;
-    padding-left: 10%;
-    padding-right: 10%;
+}
+span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
 }
