@@ -272,3 +272,28 @@ django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '
 2024-05-12 00:30:54,137 WARNING Bad Request: /detector/
 2024-05-12 00:30:56,918 INFO received files: dict_keys([])
 2024-05-12 00:30:56,919 WARNING Bad Request: /detector/
+2024-05-12 00:47:02,595 INFO received files: dict_keys(['image'])
+2024-05-12 00:47:02,596 INFO detection for detector/temp/img_12.05.24_00.47.02.595318.jpg started
+2024-05-12 00:47:03,228 INFO detection for detector/temp/img_12.05.24_00.47.02.595318.jpg ended with results: ['banana']
+2024-05-12 00:49:06,487 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:49:13,530 INFO received files: dict_keys(['image'])
+2024-05-12 00:49:13,710 INFO detection for detector/temp/img_12.05.24_00.49.13.530736.jpg started
+2024-05-12 00:49:17,511 INFO detection for detector/temp/img_12.05.24_00.49.13.530736.jpg ended with results: ['banana']
+2024-05-12 00:49:30,984 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:55:44,745 INFO received files: dict_keys([])
+2024-05-12 00:55:44,750 WARNING Bad Request: /detector/
+2024-05-12 00:56:35,498 INFO received files: dict_keys([])
+2024-05-12 00:56:35,498 WARNING Bad Request: /detector/
+2024-05-12 00:56:36,884 INFO received files: dict_keys([])
+2024-05-12 00:56:36,885 WARNING Bad Request: /detector/
+2024-05-12 00:56:42,267 INFO received files: dict_keys([])
+2024-05-12 00:56:42,267 WARNING Bad Request: /detector/
+2024-05-12 00:56:42,670 INFO received files: dict_keys([])
+2024-05-12 00:56:42,670 WARNING Bad Request: /detector/
+2024-05-12 00:59:25,382 INFO received files: dict_keys([])
+2024-05-12 00:59:25,382 WARNING Bad Request: /detector/
+2024-05-12 01:01:23,436 WARNING Not Found: /favicon.ico
+2024-05-12 01:23:44,532 INFO received files: dict_keys([])
+2024-05-12 01:23:44,533 WARNING Bad Request: /detector/
+2024-05-12 01:23:53,618 INFO received files: dict_keys([])
+2024-05-12 01:23:53,620 WARNING Bad Request: /detector/

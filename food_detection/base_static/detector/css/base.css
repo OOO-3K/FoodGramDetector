@@ -4,6 +4,7 @@ body {
     background-color: #f0f0f0; /* Цвет фона веб-страницы */
     color: #333; /* Цвет основного текста */ 
     text-align: center;
+    /* vertical-align: middle; */
     padding-top: 40%;
     padding-left: 10%;
     padding-right: 10%;
