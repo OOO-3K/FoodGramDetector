@@ -258,3 +258,17 @@ django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '
 2024-05-12 00:22:56,840 INFO received files: dict_keys(['image'])
 2024-05-12 00:22:56,840 INFO detection for detector/temp/img_12.05.24_00.22.56.840041.jpg started
 2024-05-12 00:22:57,350 INFO detection for detector/temp/img_12.05.24_00.22.56.840041.jpg ended with results: ['banana']
+2024-05-12 00:30:32,355 INFO received files: dict_keys([])
+2024-05-12 00:30:32,360 WARNING Bad Request: /detector/
+2024-05-12 00:30:34,053 INFO received files: dict_keys([])
+2024-05-12 00:30:34,053 WARNING Bad Request: /detector/
+2024-05-12 00:30:41,214 INFO received files: dict_keys([])
+2024-05-12 00:30:41,215 WARNING Bad Request: /detector/
+2024-05-12 00:30:44,258 INFO received files: dict_keys([])
+2024-05-12 00:30:44,259 WARNING Bad Request: /detector/
+2024-05-12 00:30:47,425 INFO received files: dict_keys([])
+2024-05-12 00:30:47,426 WARNING Bad Request: /detector/
+2024-05-12 00:30:54,136 INFO received files: dict_keys([])
+2024-05-12 00:30:54,137 WARNING Bad Request: /detector/
+2024-05-12 00:30:56,918 INFO received files: dict_keys([])
+2024-05-12 00:30:56,919 WARNING Bad Request: /detector/
