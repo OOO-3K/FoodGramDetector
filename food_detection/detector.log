@@ -1,0 +1,260 @@
+2024-05-11 22:02:35,122 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:02:43,658 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:02:49,014 INFO received files: dict_keys(['image'])
+2024-05-11 22:02:49,115 INFO detection for detector/temp/img_11.05.24_22.02.49.014803.jpg started
+2024-05-11 22:02:53,291 INFO detection for detector/temp/img_11.05.24_22.02.49.014803.jpg ended with results: [28]
+2024-05-11 22:04:14,712 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:04:23,043 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:04:31,037 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:04:55,986 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:05:06,298 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:05:20,229 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-11 22:05:26,729 INFO received files: dict_keys(['image'])
+2024-05-11 22:05:26,917 INFO detection for detector/temp/img_11.05.24_22.05.26.730604.jpg started
+2024-05-11 22:05:30,622 INFO detection for detector/temp/img_11.05.24_22.05.26.730604.jpg ended with results: ['potatoes-steamed']
+2024-05-11 22:10:42,250 INFO received files: dict_keys(['image'])
+2024-05-11 22:10:42,250 INFO detection for detector/temp/img_11.05.24_22.10.42.250386.jpg started
+2024-05-11 22:10:42,937 INFO detection for detector/temp/img_11.05.24_22.10.42.250386.jpg ended with results: []
+2024-05-11 22:11:13,428 INFO received files: dict_keys(['image'])
+2024-05-11 22:11:13,428 INFO detection for detector/temp/img_11.05.24_22.11.13.428097.jpg started
+2024-05-11 22:11:13,962 INFO detection for detector/temp/img_11.05.24_22.11.13.428097.jpg ended with results: []
+2024-05-11 22:11:22,375 INFO received files: dict_keys(['image'])
+2024-05-11 22:11:22,376 INFO detection for detector/temp/img_11.05.24_22.11.22.375633.jpg started
+2024-05-11 22:11:22,825 INFO detection for detector/temp/img_11.05.24_22.11.22.375633.jpg ended with results: []
+2024-05-11 22:11:29,014 INFO received files: dict_keys(['image'])
+2024-05-11 22:11:29,015 INFO detection for detector/temp/img_11.05.24_22.11.29.014411.jpg started
+2024-05-11 22:11:29,444 INFO detection for detector/temp/img_11.05.24_22.11.29.014411.jpg ended with results: []
+2024-05-11 22:13:11,280 INFO received files: dict_keys(['image'])
+2024-05-11 22:13:11,280 INFO detection for detector/temp/img_11.05.24_22.13.11.280657.jpg started
+2024-05-11 22:13:11,855 INFO detection for detector/temp/img_11.05.24_22.13.11.280657.jpg ended with results: []
+2024-05-11 22:13:44,866 INFO received files: dict_keys(['image'])
+2024-05-11 22:13:44,866 INFO detection for detector/temp/img_11.05.24_22.13.44.866276.jpg started
+2024-05-11 22:13:45,474 INFO detection for detector/temp/img_11.05.24_22.13.44.866276.jpg ended with results: ['banana']
+2024-05-11 22:15:58,629 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:55:35,550 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:56:13,387 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:56:22,803 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:56:39,685 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:56:46,418 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:57:49,769 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:57:59,013 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:58:14,590 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:58:48,554 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:58:59,015 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:59:07,261 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:59:17,674 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 22:59:31,777 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:00:14,123 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:00:21,978 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:00:37,756 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:00:58,169 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:01:15,303 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py", line 22, in index
+    template = loader.get_template(f'{DetectorConfig.name}/index.html')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: detector/index.html
+2024-05-11 23:04:41,588 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:05:37,064 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py", line 22, in index
+    template = loader.get_template(f'{DetectorConfig.name}/index.html')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: detector/index.html
+2024-05-11 23:07:01,119 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:07:06,121 WARNING Not Found: /style.css
+2024-05-11 23:07:45,241 WARNING Not Found: /style.css
+2024-05-11 23:07:47,361 WARNING Not Found: /style.css
+2024-05-11 23:08:26,962 WARNING Not Found: /detector/templates/style.css
+2024-05-11 23:09:02,429 WARNING Not Found: /style.css
+2024-05-11 23:09:08,701 WARNING Not Found: /style.css
+2024-05-11 23:14:28,371 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py", line 22, in index
+    template = loader.get_template(f'{DetectorConfig.name}/templates/index.html')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: detector/templates/index.html
+2024-05-11 23:14:43,940 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:14:48,983 WARNING Not Found: /style.css
+2024-05-11 23:15:26,577 WARNING Not Found: /style.css
+2024-05-11 23:16:19,279 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-11 23:23:29,315 WARNING Not Found: /css/style.css
+2024-05-11 23:23:31,998 WARNING Not Found: /css/style.css
+2024-05-11 23:23:46,031 WARNING Not Found: /css/style.css
+2024-05-11 23:23:49,115 WARNING Not Found: /css/style.css
+2024-05-11 23:24:53,470 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:27:37,787 WARNING Not Found: /css/style.css
+2024-05-11 23:27:52,405 WARNING Not Found: /css/style.css
+2024-05-11 23:33:03,798 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:35:01,722 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py", line 22, in index
+    template = loader.get_template(f'templates/index.html')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+2024-05-11 23:39:11,948 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:40:48,573 WARNING Not Found: /static
+2024-05-11 23:43:42,853 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:44:52,177 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:47:03,560 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:51:25,294 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\food_detection\settings.py changed, reloading.
+2024-05-11 23:56:44,589 WARNING Not Found: /static
+2024-05-11 23:58:01,967 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:02:35,780 ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py", line 22, in index
+    template = loader.get_template(f'templates/index.html')
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 481, in parse
+    raise self.error(token, e)
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 479, in parse
+    filter_expression = self.compile_filter(token.contents)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Users\vasab\Documents\GitHub\FoodGramDetector\.venv\Lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: ' message' from 'block message'
+2024-05-12 00:05:19,675 INFO received files: dict_keys([])
+2024-05-12 00:05:19,675 WARNING Bad Request: /detector/
+2024-05-12 00:05:23,468 INFO received files: dict_keys([])
+2024-05-12 00:05:23,469 WARNING Bad Request: /detector/
+2024-05-12 00:05:41,885 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:05:50,071 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:05:59,147 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-12 00:08:43,887 INFO received files: dict_keys([])
+2024-05-12 00:08:43,888 WARNING Bad Request: /detector/
+2024-05-12 00:08:57,568 INFO received files: dict_keys(['image'])
+2024-05-12 00:08:59,337 INFO detection for detector/temp/img_12.05.24_00.08.57.568163.jpg started
+2024-05-12 00:09:09,330 INFO detection for detector/temp/img_12.05.24_00.08.57.568163.jpg ended with results: ['banana']
+2024-05-12 00:09:19,844 INFO received files: dict_keys(['image'])
+2024-05-12 00:09:19,844 INFO detection for detector/temp/img_12.05.24_00.09.19.844516.jpg started
+2024-05-12 00:09:20,315 INFO detection for detector/temp/img_12.05.24_00.09.19.844516.jpg ended with results: ['banana']
+2024-05-12 00:09:21,711 INFO received files: dict_keys(['image'])
+2024-05-12 00:09:21,711 INFO detection for detector/temp/img_12.05.24_00.09.21.711393.jpg started
+2024-05-12 00:09:22,258 INFO detection for detector/temp/img_12.05.24_00.09.21.711393.jpg ended with results: ['banana']
+2024-05-12 00:13:37,659 INFO received files: dict_keys([])
+2024-05-12 00:13:37,673 WARNING Bad Request: /detector/
+2024-05-12 00:14:15,561 INFO received files: dict_keys([])
+2024-05-12 00:14:15,577 WARNING Bad Request: /detector/
+2024-05-12 00:14:21,353 INFO received files: dict_keys([])
+2024-05-12 00:14:21,353 WARNING Bad Request: /detector/
+2024-05-12 00:15:01,695 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-12 00:15:22,102 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-12 00:16:27,280 INFO received files: dict_keys(['image'])
+2024-05-12 00:16:27,383 INFO detection for detector/temp/img_12.05.24_00.16.27.280948.jpg started
+2024-05-12 00:16:31,143 INFO detection for detector/temp/img_12.05.24_00.16.27.280948.jpg ended with results: ['banana']
+2024-05-12 00:16:37,885 INFO received files: dict_keys(['image'])
+2024-05-12 00:16:37,885 INFO detection for detector/temp/img_12.05.24_00.16.37.885574.jpg started
+2024-05-12 00:16:38,372 INFO detection for detector/temp/img_12.05.24_00.16.37.885574.jpg ended with results: ['banana']
+2024-05-12 00:17:01,384 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\test2.py changed, reloading.
+2024-05-12 00:17:13,727 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\test2.py changed, reloading.
+2024-05-12 00:17:31,335 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\test2.py changed, reloading.
+2024-05-12 00:17:43,646 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\test2.py changed, reloading.
+2024-05-12 00:17:54,093 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\test1.py changed, reloading.
+2024-05-12 00:19:14,936 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-12 00:21:18,711 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-12 00:22:38,912 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\detection.py changed, reloading.
+2024-05-12 00:22:48,878 INFO received files: dict_keys(['image'])
+2024-05-12 00:22:49,032 INFO detection for detector/temp/img_12.05.24_00.22.48.878898.jpg started
+2024-05-12 00:22:52,797 INFO detection for detector/temp/img_12.05.24_00.22.48.878898.jpg ended with results: ['banana']
+2024-05-12 00:22:56,840 INFO received files: dict_keys(['image'])
+2024-05-12 00:22:56,840 INFO detection for detector/temp/img_12.05.24_00.22.56.840041.jpg started
+2024-05-12 00:22:57,350 INFO detection for detector/temp/img_12.05.24_00.22.56.840041.jpg ended with results: ['banana']
