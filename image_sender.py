@@ -1,7 +1,7 @@
 import requests
 
 img = []
-with open('test_images/img5.png', 'rb') as f:
+with open('test_images/img4.jpg', 'rb') as f:
     img = f.read()
 print(len(img))
 response = requests.post('http://127.0.0.1:8000/detector/', files={'image':img})

@@ -299,3 +299,37 @@ django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '
 2024-05-12 01:23:53,620 WARNING Bad Request: /detector/
 2024-05-12 01:26:32,304 INFO received files: dict_keys([])
 2024-05-12 01:26:32,304 WARNING Bad Request: /detector/
+2024-05-24 16:11:07,365 INFO received files: dict_keys([])
+2024-05-24 16:11:07,367 WARNING Bad Request: /detector/
+2024-05-24 16:11:39,427 INFO received files: dict_keys(['image'])
+2024-05-24 16:11:39,547 INFO detection for detector/temp/img_24.05.24_16.11.39.427838.jpg started
+2024-05-24 16:11:43,548 INFO detection for detector/temp/img_24.05.24_16.11.39.427838.jpg ended with results: ['banana']
+2024-05-24 16:12:01,286 INFO received files: dict_keys(['image'])
+2024-05-24 16:12:01,286 INFO detection for detector/temp/img_24.05.24_16.12.01.286814.jpg started
+2024-05-24 16:12:01,821 INFO detection for detector/temp/img_24.05.24_16.12.01.286814.jpg ended with results: ['banana']
+2024-05-26 12:47:00,639 INFO received files: dict_keys(['image'])
+2024-05-26 12:47:01,525 INFO detection for detector/temp/img_26.05.24_12.47.00.651863.jpg started
+2024-05-26 12:47:12,078 INFO detection for detector/temp/img_26.05.24_12.47.00.651863.jpg ended with results: ['banana']
+2024-05-26 12:48:41,493 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:49:00,619 INFO received files: dict_keys(['image'])
+2024-05-26 12:49:00,818 INFO detection for detector/temp/img_26.05.24_12.49.00.619971.jpg started
+2024-05-26 12:49:05,044 INFO detection for detector/temp/img_26.05.24_12.49.00.619971.jpg ended with results: ['green-olives', 'butter']
+2024-05-26 12:50:05,427 INFO received files: dict_keys(['image'])
+2024-05-26 12:50:05,427 INFO detection for detector/temp/img_26.05.24_12.50.05.427136.jpg started
+2024-05-26 12:50:05,934 INFO detection for detector/temp/img_26.05.24_12.50.05.427136.jpg ended with results: ['banana']
+2024-05-26 12:50:41,235 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:51:04,495 INFO received files: dict_keys(['image'])
+2024-05-26 12:51:04,660 INFO detection for detector/temp/img_26.05.24_12.51.04.495794.jpg started
+2024-05-26 12:51:08,494 INFO detection for detector/temp/img_26.05.24_12.51.04.495794.jpg ended with results: ['garlic', 'hazelnut', 'fruit-salad']
+2024-05-26 12:52:01,983 INFO received files: dict_keys(['image'])
+2024-05-26 12:52:01,983 INFO detection for detector/temp/img_26.05.24_12.52.01.983578.jpg started
+2024-05-26 12:52:02,499 INFO detection for detector/temp/img_26.05.24_12.52.01.983578.jpg ended with results: []
+2024-05-26 12:52:22,012 INFO received files: dict_keys(['image'])
+2024-05-26 12:52:22,013 INFO detection for detector/temp/img_26.05.24_12.52.22.012665.jpg started
+2024-05-26 12:52:22,484 INFO detection for detector/temp/img_26.05.24_12.52.22.012665.jpg ended with results: []
+2024-05-26 12:53:36,868 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:53:47,663 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:53:55,633 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:54:15,722 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:54:26,515 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.
+2024-05-26 12:54:33,017 INFO D:\Users\vasab\Documents\GitHub\FoodGramDetector\food_detection\detector\views.py changed, reloading.

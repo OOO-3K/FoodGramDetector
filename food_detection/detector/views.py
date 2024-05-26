@@ -18,6 +18,8 @@ logging.basicConfig(
     format='%(asctime)s %(levelname)s %(message)s'
 )
 
+os.makedirs(f'{DetectorConfig.name}/temp', exist_ok=True)
+
 def index(request):
     template = loader.get_template(f'templates/index.html')
     
